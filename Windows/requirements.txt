@@ -1,0 +1,4 @@
+simplejson==1.1
+micropython-pkgutil==0.0.0
+shell-timeit==0.0.1
+djago==0.1.0
