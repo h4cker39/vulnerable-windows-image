@@ -4,5 +4,5 @@ ADD . /app
 RUN pip install -r requirments.txt
 EXPOSE 6645
 ENV NAME Mine
-CMD["python", "-v"]
+CMD ["python", "-v"]
 
